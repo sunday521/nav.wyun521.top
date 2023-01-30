@@ -1,0 +1,10 @@
+
+
+body .main-content {
+    background: #eee;
+}
+
+body.night .main-content {
+    background: url(https://mysource-hexo.wyun521.top/img/cover/s1.jpg);
+    background-size: contain;
+}
