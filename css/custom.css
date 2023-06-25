@@ -8,3 +8,24 @@ body.night .main-content {
     background: url(https://mysource-hexo.wyun521.top/img/cover/s1.jpg);
     background-size: contain;
 }
+
+.box2 {
+    border-radius: 12px;
+}
+.box2:hover {
+    box-shadow: 8px 8px 45px -10px #CDDC39 !important;
+    border: 1px solid #CDDC39 !important;
+}
+
+.search-input {
+    padding-left: 55px;
+}
+
+.search-input:focus {
+    border: 1px solid #FFEB3B;
+    box-shadow: 0 0 5px 0px #e3f908d1;
+}
+
+span.search-icon {
+    margin: 0px 5px;
+}
