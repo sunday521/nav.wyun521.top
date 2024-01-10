@@ -1,0 +1,14 @@
+- name: CloudConvert
+  url: https://cloudconvert.com/mp4-to-gif
+  img: https://api.iowen.cn/favicon/cloudconvert.com.png
+  description: 在线转换文件格式
+
+- name: OnlineConvertFree
+  url: https://onlineconvertfree.com/zh/convert-format/mp4-to-gif/
+  img: https://api.iowen.cn/favicon/onlineconvertfree.com.png
+  description: 在线转换文件格式
+
+- name: Convertio
+  url: https://convertio.co/zh/
+  img: https://api.iowen.cn/favicon/convertio.co.png
+  description: 在线转换文件格式

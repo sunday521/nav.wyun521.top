@@ -1,0 +1,65 @@
+- name: 知鱼素材
+  url: https://sucai.zhiyu.art/
+  img: https://api.iowen.cn/favicon/sucai.zhiyu.art.png
+  description: 免费高质量素材商用下载
+
+- name: 梅花网
+  url: https://www.meihua.info/
+  img: https://api.iowen.cn/favicon/www.meihua.info.png
+  description: 营销作品模板大全
+
+# - name: 爱给网
+#   url: https://www.aigei.com/
+#   img: https://api.iowen.cn/favicon/www.aigei.com.png
+#   description: 让内容创作更简单
+
+# - name: 新人区
+#   url: https://www.xrqu.com/
+#   img: https://api.iowen.cn/favicon/www.xrqu.com.png
+#   description: 海量创作素材
+
+- name: 耳聆网
+  url: https://www.ear0.com/sound
+  img: https://api.iowen.cn/favicon/www.ear0.com.png
+  description: 背景音效素材库
+
+# - name: 33台词网
+#   url: https://33.agilestudio.cn/
+#   img: https://api.iowen.cn/favicon/33.agilestudio.cn.png
+#   description: 输入台词找电影片段
+
+# - name: 33搜帧
+#   url: https://fse.agilestudio.cn/
+#   img: https://api.iowen.cn/favicon/fse.agilestudio.cn.png
+#   description: 根据描述找相关视频画面
+
+# - name: GetYarn
+#   url: https://getyarn.io/
+#   img: https://api.iowen.cn/favicon/getyarn.io.png
+#   description: 输入台词找电影片段
+
+# 插画素材
+
+- name: PngTree
+  url: https://zh.pngtree.com/
+  img: https://api.iowen.cn/favicon/zh.pngtree.com.png
+  description: 插画和PNG图片素材
+
+- name: 熊猫办公
+  url: https://www.tukuppt.com/
+  img: https://api.iowen.cn/favicon/www.tukuppt.com.png
+  description: 免扣元素和PNG图片素材
+# - name: 快图网
+#   url: http://www.kuaipng.com/
+#   img: https://api.iowen.cn/favicon/www.kuaipng.com.png
+#   description: 免扣元素和PNG图片素材
+
+# - name: 觅元素
+#   url: https://www.51yuansu.com/all/
+#   img: https://api.iowen.cn/favicon/www.51yuansu.com.png
+#   description: 插画和PNG图片素材
+
+# - name: 站酷
+#   url: https://www.yxfww.com/
+#   img: https://api.iowen.cn/favicon/www.yxfww.com.png
+#   description: 插画和PNG图片素材

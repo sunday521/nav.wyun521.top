@@ -1,0 +1,24 @@
+- name: nvm error
+  url: https://blog.csdn.net/qq_44468012/article/details/122079210
+  img: /img/def5.png
+  description: 使用nvm use出现exit status 1与exit status 145乱码
+
+- name: Git Pull
+  url: https://www.jianshu.com/p/5cf5566019c6
+  img: https://api.iowen.cn/favicon/www.jianshu.com.png
+  description: git pull时提示Please commit your changes or stash them before you merge.
+
+- name: Yarn Install
+  url: https://blog.csdn.net/zycachao/article/details/124790810
+  img: https://api.iowen.cn/favicon/www.jianshu.com.png
+  description: YARN安装关于No HADOOP_CONF_DIR set. ＞＞ Please specify it either in yarn-env.cmd or in the environment.
+
+- name: npm install
+  url: https://blog.csdn.net/qq_31772441/article/details/112209986
+  img: https://api.iowen.cn/favicon/www.jianshu.com.png
+  description: npm ERR! code EINTEGRITY npm ERR! sha1-xxxxxx integrity checksum failed when using sha1 wanted sha1
+
+- name: VuePress reco v2 建站
+  url: https://kongchengji.blog.csdn.net/article/details/127485736?spm=1001.2014.3001.5502
+  img: https://api.iowen.cn/favicon/blog.csdn.net.png
+  description: 个人博客搭建遇坑流程のVuePress2

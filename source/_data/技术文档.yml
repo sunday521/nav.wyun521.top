@@ -1,0 +1,35 @@
+- name: MDN Web Docs
+  url: https://developer.mozilla.org/zh-CN/
+  img: https://api.iowen.cn/favicon/developer.mozilla.org.png
+  description: Wen开发文档指南
+
+- name: W3schools
+  url: https://www.w3schools.cn/
+  img: https://api.iowen.cn/favicon/www.w3schools.cn.png
+  description: 领先的 Web 技术教程
+
+- name: W3school
+  url: https://www.w3school.com.cn/
+  img: https://api.iowen.cn/favicon/www.w3school.com.cn.png
+  description: 领先的 Web 技术教程
+
+- name: C语言中文网
+  url: http://c.biancheng.net/
+  img: https://api.iowen.cn/favicon/c.biancheng.net.png
+  description: 前后端入门教程
+
+# - name: W3Schools
+#   url: https://www.w3schools.com/
+#   img: https://api.iowen.cn/favicon/www.w3schools.com.png
+#   description: 前端开发文档教程
+
+# 个人
+- name: 千古前端
+  url: https://web.qianguyihao.com/
+  img: /img/def5.png
+  description: 千古前端图文教程
+
+- name: 被删的前端游乐场
+  url: https://godbasin.github.io/front-end-playground/
+  img: /img/def5.png
+  description: Just playing around

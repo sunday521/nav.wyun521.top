@@ -1,0 +1,49 @@
+- name: Duolingo
+  url: https://www.duolingo.cn/learn
+  img: https://api.iowen.cn/favicon/www.duolingo.cn.png
+  description: 多邻国交互式语言学习
+
+- name: 程序员指南
+  url: https://www.freecodecamp.org/chinese/news/learn-to-code-book/
+  img: https://api.iowen.cn/favicon/www.freecodecamp.org.png
+  description: 如何在 2023 年学习编程并获得开发者工作 [完整指南]
+
+- name: 微信读书
+  url: https://weread.qq.com/
+  img: https://api.iowen.cn/favicon/weread.qq.com.png
+  description: 微信读书网页版
+
+- name: 什么值得读
+  url: https://www.shenmezhidedu.com/
+  img: https://api.iowen.cn/favicon/www.shenmezhidedu.com.png
+  description: 互联网人的书单库
+
+- name: Z-library
+  url: https://zlibrary.tk/
+  img: https://api.iowen.cn/favicon/zlibrary.tk.png
+  description: 全球最大的数字图书馆
+
+- name: 句子控
+  url: https://www.juzikong.com/
+  img: https://api.iowen.cn/favicon/www.juzikong.com.png
+  description: 收集分享你喜欢的句子
+
+- name: 每日一文
+  url: https://meiriyiwen.com/
+  img: https://api.iowen.cn/favicon/meiriyiwen.com.png
+  description: 每天一篇随机美文
+
+- name: 麦田音乐
+  url: https://www.mtyyw.com/
+  img: https://api.iowen.cn/favicon/www.mtyyw.com.png
+  description: 用音乐和文字温暖生活
+
+- name: 在线打碟
+  url: https://hin.cool/c/dd.html
+  img: https://api.iowen.cn/favicon/hin.cool.png
+  description: 一个很有节奏的网站
+
+- name: 随机小姐姐
+  url: https://www.cocotoolset.cn/play/free-girls/pc.html
+  img: https://api.iowen.cn/favicon/www.cocotoolset.cn.png
+  description: 随机小姐姐PC端

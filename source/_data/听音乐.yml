@@ -1,0 +1,37 @@
+## 音乐
+
+- name: ZZ123音乐网
+  url: https://www.zz123.com/
+  img: https://api.iowen.cn/favicon/www.zz123.com.png
+  description: 在线免费听歌
+
+- name: Audiomack
+  url: https://www.audiomack.com/
+  img: https://api.iowen.cn/favicon/www.audiomack.com.png
+  description: 在线免费听歌
+
+- name: MyFreeMP3
+  url: https://tools.liumingye.cn/music/#/
+  img: https://api.iowen.cn/favicon/tools.liumingye.cn.png
+  description: 在线免费听歌
+
+- name: 放屁音乐
+  url: https://www.fangpi.net/
+  img: https://api.iowen.cn/favicon/www.fangpi.net.png
+  description: 全网VIP音乐在线播放和下载
+
+- name: 下歌吧
+  url: https://music.y444.cn/
+  img: https://api.iowen.cn/favicon/music.y444.cn.png
+  description: 全网VIP音乐在线播放和下载
+
+- name: 洛雪音乐
+  url: https://github.com/lyswhut/lx-music-desktop
+  img: /img/def5.png
+  description: 免费听歌软件
+
+- name: listen1
+  url: https://listen1.github.io/listen1/
+  img: /img/def5.png
+  description: One for all free music in China
+

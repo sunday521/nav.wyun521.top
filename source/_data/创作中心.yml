@@ -1,0 +1,32 @@
+
+- name: 西瓜视频创作中心
+  url: https://studio.ixigua.com/welcome
+  img: https://api.iowen.cn/favicon/studio.ixigua.com.png
+  description: 西瓜视频创作中心
+
+- name: 抖音创作中心
+  url: https://creator.douyin.com/creator-micro/home
+  img: https://api.iowen.cn/favicon/creator.douyin.com.png
+  description: 抖音创作服务平台
+
+- name: 小红书创作中心
+  url: https://creator.xiaohongshu.com/creator/home
+  img: https://api.iowen.cn/favicon/creator.xiaohongshu.com.png
+  description: 小红书创作服务平台
+
+- name: 哔哩哔哩创作中心
+  url: https://member.bilibili.com/platform/home
+  img: https://api.iowen.cn/favicon/member.bilibili.com.png
+  description: 哔哩哔哩创作服务平台
+
+- name: 微信创作中心
+  url: https://mp.weixin.qq.com/
+  img: https://api.iowen.cn/favicon/mp.weixin.qq.com.png
+  description: 微信公号创作中心
+
+# - name: 剪映网页版
+#   url: https://www.capcut.cn/home-page
+#   img: https://api.iowen.cn/favicon/www.capcut.cn.png
+#   description: 剪映视频创作中心
+
+

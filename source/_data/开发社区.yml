@@ -1,0 +1,59 @@
+- name: 掘金
+  url: https://juejin.cn/
+  img: https://api.iowen.cn/favicon/juejin.cn.png
+  description: 新起的开发社区
+
+- name: 多多鱼网页
+  url: http://www.ddywysj.com/
+  img: https://api.iowen.cn/favicon/www.ddywysj.com.png
+  description: 各种类型网页制作源码、教学
+
+- name: 思否
+  url: https://segmentfault.com/
+  img: https://api.iowen.cn/favicon/segmentfault.com.png
+  description: 程序员开发社区
+
+- name: Stack Overflow
+  url: https://stackoverflow.com/
+  img: https://api.iowen.cn/favicon/stackoverflow.com.png
+  description: 全球最受程序员青睐的开发社区
+
+- name: 简书
+  url: https://www.jianshu.com/
+  img: https://api.iowen.cn/favicon/www.jianshu.com.png
+  description: 一个优质的创作社区
+
+- name: CSDN
+  url: https://blog.csdn.net
+  img: https://api.iowen.cn/favicon/blog.csdn.net.png
+  description: 最大中文IT社区之一
+
+- name: 知乎
+  url: https://www.zhihu.com/
+  img: https://api.iowen.cn/favicon/www.zhihu.com.png
+  description: 有问题上知乎
+
+- name: 牛客网
+  url: https://www.nowcoder.com/
+  img: https://api.iowen.cn/favicon/www.nowcoder.com.png
+  description: 程序员学习，面试，求职平台
+
+- name: OSChina
+  url: https://www.oschina.net/
+  img: https://api.iowen.cn/favicon/www.oschina.net.png
+  description: 开源中国技术交流社区
+
+- name: 博客园
+  url: https://www.cnblogs.com/
+  img: https://api.iowen.cn/favicon/cnblogs.com.png
+  description: 一个面向开发者的知识分享社区
+# - name: Go语言中文网
+#   url: https://studygolang.com/dl
+#   img: https://api.iowen.cn/favicon/studygolang.com.png
+#   description: Go语言中文社区
+
+# - name: 太平洋电脑网
+#   url: https://www.pconline.com.cn/
+#   img: https://api.iowen.cn/favicon/www.pconline.com.cn.png
+#   description: 专业IT门户网站
+

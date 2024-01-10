@@ -1,0 +1,99 @@
+- name: BootStrap
+  url: https://v5.bootcss.com/
+  img: https://api.iowen.cn/favicon/v5.bootcss.com.png
+  description: 快速构建响应式布局网站
+
+- name: Swiper
+  url: https://www.swiper.com.cn/
+  img: https://api.iowen.cn/favicon/www.swiper.com.cn.png
+  description: 移动端触摸滑动插件
+
+- name: npm
+  url: https://www.npmjs.com/
+  img: https://api.iowen.cn/favicon/www.npmjs.com.png
+  description: npm.js官网
+
+- name: Vue
+  url: https://cn.vuejs.org/
+  img: https://api.iowen.cn/favicon/cn.vuejs.org.png
+  description: 渐进式JavaScript框架
+
+- name: VuePress
+  url: https://v2.vuepress.vuejs.org/zh/
+  img: https://api.iowen.cn/favicon/vuepress.vuejs.org.png
+  description: Vue 驱动的静态网站生成器
+
+- name: VuePress Reco
+  url: https://vuepress-theme-reco.recoluan.com/
+  img: https://api.iowen.cn/favicon/vuepress-theme-reco.recoluan.com.png
+  description: VuePress Reco主题
+
+- name: uni-app
+  url: https://uniapp.dcloud.net.cn/
+  img: https://api.iowen.cn/favicon/uniapp.dcloud.net.cn.png
+  description: 一套代码开发网页小程序APP
+
+- name: Layui
+  url: https://layui.org.cn/index.html
+  img: https://api.iowen.cn/favicon/layui.org.cn.png
+  description: 开源极简模块化UI组件库
+
+- name: Hexo
+  url: https://hexo.io/zh-cn/docs/
+  img: https://api.iowen.cn/favicon/hexo.io.png
+  description: 快速、简洁的博客框架
+
+- name: Halo
+  url: https://halo.run/
+  img: https://api.iowen.cn/favicon/halo.run.png
+  description: 强大易用的开源建站工具，基于Java
+
+- name: Typecho
+  url: https://typecho.org/
+  img: https://api.iowen.cn/favicon/typecho.org.png
+  description: 轻量级动态博客，基于PHP和MySQL
+
+- name: Wordpress
+  url: https://cn.wordpress.org/
+  img: https://api.iowen.cn/favicon/cn.wordpress.org.png
+  description: 适用于博客到大型网站的 CMS (内容管理系统)
+
+# - name: Easy Hexo
+#   url: https://easyhexo.com/
+#   img: https://api.iowen.cn/favicon/easyhexo.com.png
+#   description: Hexo使用手册
+
+- name: Butterfly
+  url: https://butterfly.zhheo.com/docs/
+  img: https://api.iowen.cn/favicon/www.zhheo.com.png
+  description: Butterfly主题魔改
+
+- name: Redefine
+  url: https://redefine-docs.ohevan.com/
+  img: /img/def5.png
+  description: Redefine主题官网
+
+- name: Docusaurus
+  url: https://docusaurus.io/zh-CN/
+  img: https://api.iowen.cn/favicon/docusaurus.io.png
+  description: 快速生成静态文档站点
+# - name: Notionchina
+#   url: https://notionchina.co/
+#   img: https://api.iowen.cn/favicon/notionchina.co.png
+#   description: Notion使用手册
+
+# - name: Twikoo
+#   url: https://twikoo.js.org/
+#   img: /img/def5.png
+#   description: 优质的网站评论系统
+
+# - name: Qexo
+#   url: https://www.oplog.cn/qexo/start.html
+#   img: https://api.iowen.cn/favicon/oplog.cn.png
+#   description: Hexo后台管理工具
+
+# - name: EJS
+#   url: https://ejs.bootcss.com/#install
+#   img: /img/def5.png
+#   description: 强大的JS模板引擎
+

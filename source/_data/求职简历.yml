@@ -1,0 +1,34 @@
+- name: 可画简历
+  url: https://www.canva.cn/templates/search/566A5Y6GX64/
+  img: https://api.iowen.cn/favicon/www.canva.cn.png
+  description: 模板简约，免费导出PDF，不限制次数
+
+- name: 超级简历
+  url: https://www.wondercv.com/cvs
+  img: https://api.iowen.cn/favicon/www.wondercv.com.png
+  description: 在线设计简历，免费版能保留一份简历
+
+# - name: 木及简历
+#   url: https://www.mujicv.com/home/
+#   img: https://api.iowen.cn/favicon/www.mujicv.com.png
+#   description: 使用Markdown编辑简历
+
+# - name: 五百丁简历
+#   url: https://www.500d.me/
+#   img: https://api.iowen.cn/favicon/www.500d.me.png
+#   description: 模板丰富，导出要付费，适合有钱人士
+
+- name: 拉勾网
+  url: https://www.lagou.com/
+  img: https://api.iowen.cn/favicon/www.lagou.com.png
+  description: 程序员求职网
+
+- name: 应届生求职网
+  url: https://www.yingjiesheng.com/
+  img: https://api.iowen.cn/favicon/www.yingjiesheng.com.png
+  description: 应届生求职网
+
+- name: 河北人才网
+  url: https://www.hbrc.com.cn/
+  img: https://api.iowen.cn/favicon/www.hbrc.com.cn.png
+  description: 求职网站，线下招聘会

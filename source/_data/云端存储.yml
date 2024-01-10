@@ -1,0 +1,44 @@
+- name: 阿里云盘
+  url: https://www.aliyundrive.com/drive
+  img: https://api.iowen.cn/favicon/www.aliyundrive.com.png
+  description: 上传下载不限速，做任务得容量
+
+- name: 奶牛快传
+  url: https://cowtransfer.com/
+  img: https://api.iowen.cn/favicon/cowtransfer.com.png
+  description: 免费大文件传输
+
+- name: 多吉云
+  url: https://console.dogecloud.com/home/overview
+  img: https://api.iowen.cn/favicon/console.dogecloud.com.png
+  description: 云存储与域名管理
+
+- name: 硅云
+  url: https://www.vpsor.cn/center/personal/myProduct/domain
+  img: https://api.iowen.cn/favicon/www.vpsor.cn.png
+  description: 云服务
+
+- name: 腾讯云
+  url: https://cloud.tencent.com/
+  img: https://api.iowen.cn/favicon/cloud.tencent.com.png
+  description: 云服务
+
+- name: 华为云
+  url: https://activity.huaweicloud.com/
+  img: https://api.iowen.cn/favicon/huaweicloud.com.png
+  description: 云服务
+
+- name: 多吉云
+  url: https://www.dogecloud.com/
+  img: https://api.iowen.cn/favicon/www.dogecloud.com.png
+  description: 云服务
+
+# - name: 硅云
+#   url: https://www.vpsor.cn/
+#   img: https://api.iowen.cn/favicon/www.vpsor.cn.png
+#   description: 云主机提供商
+
+- name: 蓝奏云
+  url: https://pc.woozooo.com/u
+  img: https://api.iowen.cn/favicon/pc.woozooo.com.png
+  description: 蓝奏云网盘

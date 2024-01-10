@@ -1,0 +1,96 @@
+- name: WeTab
+  url: https://www.wetab.link/
+  img: https://api.iowen.cn/favicon/www.wetab.link.png
+  description: WeTab新标签页
+
+- name: 百度指数
+  url: https://index.baidu.com/v2/rank/index.html
+  img: https://api.iowen.cn/favicon/baidu.com.png
+  description: 行业排行最新动态
+
+- name: Typora Themes Gallery
+  url: https://theme.typoraio.cn/
+  img: https://api.iowen.cn/favicon/typoraio.cn.png
+  description: Typora Themes Gallery
+
+# - name: 起号云
+#   url: https://video.siyoa.com/#/user/index
+#   img: https://api.iowen.cn/favicon/video.siyoa.com.png
+#   description: 在线视频混剪快速生成
+
+# - name: 字由
+#   url: https://www.hellofont.cn/home
+#   img: https://api.iowen.cn/favicon/www.hellofont.cn.png
+#   description: 找字体，字体大全
+
+# - name: IMGAPI
+#   url: https://imgapi.cn/wiki.html
+#   img: https://api.iowen.cn/favicon/imgapi.cn.png
+#   description: 简单快速的图片调用API
+
+# - name: 爱范儿
+#   url: https://www.ifanr.com/
+#   img: https://api.iowen.cn/favicon/www.ifanr.com.png
+#   description: 科技前沿热点资讯，让未来触手可及
+
+# - name: 各种自媒体尺寸大全
+#   url: https://zedex.cn/8396.html
+#   img: https://api.iowen.cn/favicon/zedex.cn.png
+#   description: 各种自媒体尺寸大全
+
+# - name: HiQQ学术搜索
+#   url: https://so.hiqq.com.cn/
+#   img: https://api.iowen.cn/favicon/so.hiqq.com.cn.png
+#   description: 谷歌学术搜索镜像站
+
+# - name: 人人都是产品经理
+#   url: https://www.woshipm.com/
+#   img: https://api.iowen.cn/favicon/www.woshipm.com.png
+#   description: 产品经理、产品爱好者交流平台
+
+# - name: 新榜
+#   url: https://www.newrank.cn/
+#   img: https://api.iowen.cn/favicon/www.newrank.cn.png
+#   description: 新媒体运营管理平台
+
+# 网站收藏
+
+- name: 火山翻译
+  url: https://translate.volcengine.com/
+  img: https://api.iowen.cn/favicon/translate.volcengine.com.png
+  description: 字节跳动旗下在线翻译网站
+# - name: 幕布
+#   url: https://mubu.com/app
+#   img: https://api.iowen.cn/favicon/mubu.com.png
+#   description: 但不支持Markdown
+
+# - name: StackOverflow中文网
+#   url: https://stackoverflow.org.cn/
+#   img: https://api.iowen.cn/favicon/stackoverflow.org.cn.png
+#   description: StackOverflow中文网
+
+# 国外网站
+# - name: Facebook
+#   url: https://www.facebook.com/
+#   img: https://api.iowen.cn/favicon/foreverblog.cn.png
+#   description: 脸书平台
+
+# - name: Instagram
+#   url: https://www.instagram.com/
+#   img: https://api.iowen.cn/favicon/www.instagram.com.png
+#   description: 一个提供在线照片，视频共享和社交网络服务的应用
+
+# - name: Tiktok
+#   url: https://www.tiktok.com/
+#   img: https://api.iowen.cn/favicon/www.tiktok.com.png
+#   description: 海外版抖音
+
+# - name: YouTube
+#   url: https://www.youtube.com/
+#   img: https://api.iowen.cn/favicon/www.youtube.com.png
+#   description: 世界上最大的视频网站
+
+# - name: Twitter
+#   url: https://www.twitter.com/
+#   img: https://api.iowen.cn/favicon/www.twitter.com.png
+#   description: 在线社交和微博服务

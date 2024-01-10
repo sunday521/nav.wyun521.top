@@ -1,0 +1,66 @@
+## 官网
+- name: 黑马程序员
+  url: https://www.itheima.com/
+  img: https://api.iowen.cn/favicon/www.itheima.com.png
+  description: IT技术培训机构
+- name: Tlias
+  url: https://tlias-stu.boxuegu.com/home
+  img: https://api.iowen.cn/favicon/tlias-stu.boxuegu.com.png
+  description: Tlias学习中心
+
+- name: 火星时代
+  url: https://www.hxsd.com/
+  img: https://api.iowen.cn/favicon/www.hxsd.com.png
+  description: CG设计培训机构
+
+- name: 华信教务系统
+  url: http://222.223.236.163:8090/jsxsd/
+  img: /img/def5.png
+  description: 教务系统登录界面
+
+- name: 维普毕业论文管理系统
+  url: https://vgms.fanyu.com/
+  img: https://api.iowen.cn/favicon/vgms.fanyu.com.png
+  description: 维普毕业论文管理系统
+
+- name: 智慧团建
+  url: https://zhtj.youth.cn/zhtj/signin
+  img: https://api.iowen.cn/favicon/youth.cn.png
+  description: 网上共青团中心
+
+- name: 学信网
+  url: https://www.chsi.com.cn/
+  img: https://api.iowen.cn/favicon/www.chsi.com.cn.png
+  description: 中国高等教育学生信息网
+
+- name: 企业统一社会信用代码查询
+  url: https://www.cods.org.cn/gscx/
+  img: /img/def5.png
+  description: 全国组织机构统一社会信用代码查询平台
+
+- name: 全国高校毕业生去向登记系统
+  url: https://wq.ncss.cn/
+  img: https://api.iowen.cn/favicon/wq.ncss.cn.png
+  description: 全国高校毕业生去向登记系统
+
+- name: 华信心理健康管理系统
+  url: http://120.211.144.202:60000/index.asp
+  img: /img/def5.png
+  description: 华信心理健康管理系统
+
+## 工具类
+
+# - name: 论文狗
+#   url: https://www.lunwengo.net/
+#   img: https://api.iowen.cn/favicon/www.lunwengo.net.png
+#   description: 论文查重降重
+
+- name: 实习报告
+  url: https://www.51test.net/sxbg/sitemap/
+  img: https://api.iowen.cn/favicon/www.51test.net.png
+  description: 无忧考网实习报告
+# - name: 优秀范文网
+#   url: https://www.yxfww.com/
+#   img: https://api.iowen.cn/favicon/www.yxfww.com.png
+#   description: 各类文书范文
+

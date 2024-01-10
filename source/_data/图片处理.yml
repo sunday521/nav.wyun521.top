@@ -1,0 +1,72 @@
+## 抠图
+- name: Removebg
+  url: https://www.remove.bg/zh/upload
+  img: https://api.iowen.cn/favicon/www.remove.bg.png
+  description: 上传一张图片以消除背景
+
+- name: 佐糖
+  url: https://picwish.cn/remove-background
+  img: https://api.iowen.cn/favicon/picwish.cn.png
+  description: 免费在线AI抠图
+
+## 图片处理工具
+
+- name: 即时工具
+  url: https://www.67tool.com/
+  img: https://api.iowen.cn/favicon/www.67tool.com.png
+  description: 即时工具大全
+
+- name: 度度网
+  url: https://www.topdodo.com/
+  img: https://api.iowen.cn/favicon/www.topdodo.com.png
+  description: 图片在线处理
+
+- name: 一键改图
+  url: https://yijiangaitu.com/
+  img: https://api.iowen.cn/favicon/yijiangaitu.com.png
+  description: 简单好用的在线图片处理工具
+
+- name: 在线工具箱
+  url: https://tool.lu/c/image/
+  img: https://api.iowen.cn/favicon/tool.lu.png
+  description: 在线工具箱图片处理工具大全
+
+## 压缩
+- name: Squoosh
+  url: https://squoosh.app/
+  img: https://api.iowen.cn/favicon/squoosh.app.png
+  description: 图片在线压缩，JPG压缩很高
+
+- name: TinyPNG
+  url: https://tinypng.com/
+  img: https://api.iowen.cn/favicon/tinypng.com.png
+  description: 可压缩图片，但有大小限制
+
+- name: 压力巨大
+  url: http://www.yalijuda.com/
+  img: https://api.iowen.cn/favicon/yalijuda.com.png
+  description: 批量免费压缩图片
+# - name: 像素蒸发
+#   url: https://moonvy.com/apps/PxEvapo/
+#   img: https://api.iowen.cn/favicon/moonvy.com.png
+#   description: 在浏览器中压缩图片/格式转换
+# - name: Flexclip
+#   url: https://www.flexclip.com/cn/tools/compress-video/
+#   img: https://api.iowen.cn/favicon/www.flexclip.com.png
+#   description: 在线免费视频压缩
+
+## 去水印
+
+- name: Apeaksoft
+  url: https://www.apeaksoft.com/watermark-remover/editor/
+  img: https://api.iowen.cn/favicon/www.apeaksoft.com.png
+  description: 去水印
+# - name: Aiseesoft去水印
+#   url: https://zh-cn.aiseesoft.com/watermark-remover-online/
+#   img: https://api.iowen.cn/favicon/zh-cn.aiseesoft.com.png
+#   description: 在线免费水印去除剂
+
+# - name: 去去去
+#   url: https://quququ.cn/
+#   img: https://api.iowen.cn/favicon/quququ.cn.png
+#   description: 水印一键去去去

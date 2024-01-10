@@ -1,0 +1,96 @@
+- name: 黑洞导航
+  url: https://hddh.link/
+  img: /img/def5.png
+  description: 互联网资源聚合导航
+
+- name: 考拉导航
+  url: https://www.kaolamedia.com/
+  img: https://api.iowen.cn/favicon/www.kaolamedia.com.png
+  description: 新媒体人的专属门户网站
+
+- name: Coco自媒体导航
+  url: https://zmtdh.cocotoolset.cn/
+  img: https://api.iowen.cn/favicon/zmtdh.cocotoolset.cn.png
+  description: 属于自媒体人的网址导航
+
+- name: 自媒体家园
+  url: https://www.zmthome.com/
+  img: https://api.iowen.cn/favicon/www.zmthome.com.png
+  description: 专业自媒体导航
+
+- name: 自媒体135
+  url: https://www.zimeiti135.com.cn/
+  img: https://api.iowen.cn/favicon/www.zimeiti135.com.cn.png
+  description: 自媒体人的专用导航
+
+- name: 唐先森的网址导航
+  url: https://fe32.top/nav/index.html
+  img: https://api.iowen.cn/favicon/fe32.top.png
+  description: 唐先森的网址导航
+
+- name: 我的书签
+  url: https://it-cxy.top/
+  img: https://api.iowen.cn/favicon/it-cxy.top.png
+  description: 我的书签导航
+
+- name: 鸡盒导航
+  url: https://caoniang.com/
+  img: https://api.iowen.cn/favicon/caoniang.com.png
+  description: 互联网资源一触即达
+
+- name: 菜鸟工具
+  url: https://c.runoob.com/
+  img: https://api.iowen.cn/favicon/c.runoob.com.png
+  description: 菜鸟教程提供的工具网站
+
+- name: 程序员导航
+  url: https://cxy521.com/?from=sync
+  img: https://api.iowen.cn/favicon/cxy521.com.png
+  description: 程序员导航
+
+- name: 优设导航
+  url: https://hao.uisdc.com/
+  img: https://api.iowen.cn/favicon/hao.uisdc.com.png
+  description: 百万设计师的导航网站
+
+- name: 小白导航
+  url: https://nav.newzone.top/
+  img: https://api.iowen.cn/favicon/newzone.top.png
+  description: 小白导航
+
+# - name: 网盘小站
+#   url: https://wpxz.vip/
+#   img: /img/def5.png
+#   description: 网盘小站地址发布页
+
+- name: 135编辑器导航
+  url: https://www.135editor.com/yunyingdaohang.html
+  img: https://api.iowen.cn/favicon/www.135editor.com.png
+  description: 135编辑器导航
+
+## 其他
+
+- name: 集知盒子
+  url: https://www.jizhihezi.com/
+  img: https://api.iowen.cn/favicon/www.jizhihezi.com.png
+  description: 有态度、有内涵、有价值
+
+- name: 龙轩导航
+  url: http://ilxdh.com/
+  img: https://api.iowen.cn/favicon/ilxdh.com.png
+  description: 做个有用的导航
+
+- name: 24K导航
+  url: https://www.24kdh.com/
+  img: https://api.iowen.cn/favicon/www.24kdh.com/.png
+  description: 专注全网优质网址和资源分享
+
+- name: 刘明野的工具箱
+  url: https://tool.liumingye.cn/
+  img: https://api.iowen.cn/favicon/tool.liumingye.cn/.png
+  description: 视频解析，免费音乐
+
+- name: 沙雕导航网
+  url: https://shadiao.pro/
+  img: https://api.iowen.cn/favicon/shadiao.pro/.png
+  description: 好玩有趣的网址导航

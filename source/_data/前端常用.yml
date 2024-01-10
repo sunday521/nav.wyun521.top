@@ -1,0 +1,19 @@
+- name: 掘金
+  url: https://juejin.cn/
+  img: https://api.iowen.cn/favicon/juejin.cn.png
+  description: 开发者中心
+
+- name: QuickRef
+  url: https://quickref.me/zh-CN/
+  img: https://api.iowen.cn/favicon/quickref.me.png
+  description: 开发代码速查表
+
+- name: FreeCodeCamp
+  url: https://www.freecodecamp.org/chinese/learn
+  img: https://api.iowen.cn/favicon/www.freecodecamp.org.png
+  description: 免费学习编程，边学边练！
+
+- name: CodePen
+  url: https://codepen.io/trending
+  img: https://api.iowen.cn/favicon/codepen.io.png
+  description: 最牛的在线调试网站

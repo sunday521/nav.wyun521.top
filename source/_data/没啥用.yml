@@ -1,0 +1,14 @@
+- name: yikm
+  url: https://www.yikm.net/
+  img: https://api.iowen.cn/favicon/www.yikm.net.png
+  description: 小霸王游戏
+
+- name: 畅玩空间
+  url: https://play.wo1wan.com/nextgame/pc/#/youxidating
+  img: https://api.iowen.cn/favicon/play.wo1wan.com.png
+  description: 无限游戏世界
+
+- name: Poki
+  url: https://poki.cn/
+  img: https://api.iowen.cn/favicon/poki.cn.png
+  description: 免费在线玩游戏

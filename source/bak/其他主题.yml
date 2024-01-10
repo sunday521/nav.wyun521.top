@@ -1,0 +1,39 @@
+- name: Hugo PaperMod
+  url: https://seersu.me/
+  img: https://api.iowen.cn/favicon/www.ihewro.com.png
+  description: 简约大方，商务风主题
+
+- name: Typecho Joe
+  url: https://78.al/
+  img: /img/def5.png
+  description: 内容紧凑，布局合理
+
+- name: Typecho Cuteen
+  url: https://blog.zwying.com/
+  img: /img/def5.png
+  description: 内置彩色图标的主题
+
+- name: Typecho Handsome
+  url: https://cairbin.top/
+  img: /img/def5.png
+  description: 布局紧凑，内容合理，付费主题
+
+- name: VuePress Vdoing
+  url: https://doc.xugaoyi.com/
+  img: https://api.iowen.cn/favicon/doc.xugaoyi.com.png
+  description: Vdoing是在VuePressv1.x 基础上做的修改和扩展，
+
+## 其他
+# https://www.airbozh.cn/
+
+# 动态博客
+
+- name: WordPress iFalse
+  url: https://ifalse.onll.cn/
+  img: /img/def5.png
+  description: 四栏布局，内容紧凑
+
+- name: INIS
+  url: https://inis.cc/
+  img: https://api.iowen.cn/favicon/docs.inis.cc.png
+  description: 一款逐渐强大的博客系统,前后端分离，内置150个开放的API接口

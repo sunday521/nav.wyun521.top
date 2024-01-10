@@ -1,0 +1,67 @@
+## 推荐
+- name: Cupfox
+  url: https://cupfox.app/
+  img: https://api.iowen.cn/favicon/cupfox.app.png
+  description: 茶杯狐
+
+- name: 麻衣呀乎
+  url: https://www.huanyuxing.com/
+  img: https://api.iowen.cn/favicon/www.huanyuxing.com.png
+  description: 麻衣呀乎
+
+- name: 333影视
+  url: https://www.333ys.tv/
+  img: /img/def5.png
+  description: 333全网影视大全
+
+- name: 大师兄影视
+  url: https://dsxys.pro/
+  img: https://api.iowen.cn/favicon/dsxys.pro.png
+  description: 大师兄影视
+# other
+
+- name: 影视工厂
+  url: https://www.ysgc.fun/
+  img: https://api.iowen.cn/favicon/www.ysgc.fun.png
+  description: 影视工厂
+
+- name: 电影狗
+  url: https://www.dianyinggou.com/
+  img: https://api.iowen.cn/favicon/www.dianyinggou.com.png
+  description: 专业电影搜索引擎
+
+- name: 天空资源网
+  url: https://tiankongzy.com/
+  img: https://api.iowen.cn/favicon/tiankongzy.com.png
+  description: 提供影视资源
+
+- name: 小兵看看
+  url: https://www.xbsee.com/
+  img: https://api.iowen.cn/favicon/www.xbsee.com.png
+  description: 影视资源在线播放，磁力下载
+
+- name: 神马影视
+  url: https://www.smdyy1.cc/
+  img: https://api.iowen.cn/favicon/www.smdyy1.cc.png
+  description: 影视资源在线播放，磁力下载
+
+- name: 爱奇艺
+  url: https://www.iqiyi.com/
+  img: https://api.iowen.cn/favicon/www.iqiyi.com.png
+  description: 爱奇艺视频
+
+- name: 腾讯视频
+  url: https://film.qq.com/film_all_list/allfilm.html
+  img: https://api.iowen.cn/favicon/film.qq.com.png
+  description: 腾讯视频会员影视
+
+- name: 特狗影视
+  url: https://www.tegouys.com/
+  img: https://api.iowen.cn/favicon/www.tegouys.com.png
+  description: 特狗影视官网
+
+- name: 荐片
+  url: https://www.jianpian19.com/
+  img: https://api.iowen.cn/favicon/www.jianpian19.com.png
+  description: 必备看片神器
+

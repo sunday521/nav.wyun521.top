@@ -1,0 +1,19 @@
+- name: 今日热榜
+  url: https://hot.guole.fun/#/
+  img: https://api.iowen.cn/favicon/guole.fun.png
+  description: 汇聚全网热点，热门尽览无余
+
+- name: 抖音排行榜
+  url: https://creator.douyin.com/creator-micro/billboard/home
+  img: https://api.iowen.cn/favicon/creator.douyin.com.png
+  description: 抖音排行榜
+
+- name: 网易云排行榜
+  url: https://music.163.com/#/discover/toplist
+  img: https://api.iowen.cn/favicon/music.163.com.png
+  description: 网易云音乐排行榜
+
+- name: 豆瓣电影排行榜
+  url: https://movie.douban.com/
+  img: https://api.iowen.cn/favicon/movie.douban.com.png
+  description: 豆瓣电影排行榜

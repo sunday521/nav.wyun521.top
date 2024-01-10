@@ -1,0 +1,30 @@
+- name: Font Awesome 6
+  url: https://fontawesome.com/v6/search
+  img: https://api.iowen.cn/favicon/fontawesome.dashgame.com.png
+  description: 一套绝佳的图标字体库和CSS框架
+
+# - name: Font Awesome 4
+#   url: https://fontawesome.dashgame.com/
+#   img: https://api.iowen.cn/favicon/fontawesome.dashgame.com.png
+#   description: 一套绝佳的图标字体库和CSS框架
+
+- name: IconFont
+  url: https://www.iconfont.cn/
+  img: https://api.iowen.cn/favicon/iconfont.cn.png
+  description: 阿里巴巴矢量图标库
+
+# - name: IconPark
+#   url: https://iconpark.oceanengine.com/home
+#   img: https://api.iowen.cn/favicon/iconpark.oceanengine.com.png
+#   description: 一个通过技术驱动矢量图标样式的开源图标库
+
+- name: Emoji中文网
+  url: https://www.emojiall.com/zh-hans
+  img: https://api.iowen.cn/favicon/emojiall.com.png
+  description: Emoji大全
+
+- name: EmojiXD
+  url: https://emojixd.com/list
+  img: https://api.iowen.cn/favicon/emojixd.com.png
+  description: Emoji表情符号收集
+

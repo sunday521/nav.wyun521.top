@@ -1,0 +1,54 @@
+## ChatGPT
+
+- name: AskChat
+  url: http://askchat.ai/
+  img: https://api.iowen.cn/favicon/askchat.ai.png
+  description: 一个基于GPT-3.5的聊天机器人
+
+- name: 星火
+  url: https://xinghuo.xfyun.cn/desk
+  img: https://api.iowen.cn/favicon/xinghuo.xfyun.cn.png
+  description: 讯飞星火认知大模型
+
+- name: 字语智能
+  url: https://getgetai.com/workstation
+  img: https://api.iowen.cn/favicon/getgetai.com.png
+  description: 用智能AI创作技术引领智能写作未来
+
+## 内容生成器
+
+- name: 朋友圈文案生成器
+  url: https://pyq.shadiao.pro/
+  img: https://api.iowen.cn/favicon/pyq.shadiao.pro.png
+  description: 朋友圈文案生成器
+
+- name: 周报通
+  url: https://zhoubaotong.com/zh
+  img: https://api.iowen.cn/favicon/zhoubaotong.com.png
+  description: 简单描述工作内容，帮你生成完整周报
+
+# 改写工具
+
+- name: 爱改写
+  url: https://www.aigaixie.com/
+  img: https://api.iowen.cn/favicon/www.aigaixie.com.png
+  description: AI在线人工智能文字生产力工具
+
+- name: WantQuotes
+  url: https://wantquotes.net/
+  img: https://api.iowen.cn/favicon/wantquotes.net.png
+  description: 根据你的描述来查找相应的名言名句
+
+- name: WantWords
+  url: https://wantwords.net/
+  img: https://api.iowen.cn/favicon/wantwords.net.png
+  description: 反向词典，查找相关词语
+
+- name: 秘塔写作猫
+  url: https://xiezuocat.com/
+  img: https://api.iowen.cn/favicon/xiezuocat.com.png
+  description: 秘塔写作猫
+# - name: 火龙果写作
+#   url: https://web.mypitaya.com/login
+#   img: https://api.iowen.cn/favicon/web.mypitaya.com.png
+#   description: 火龙果写作

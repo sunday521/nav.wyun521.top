@@ -1,0 +1,127 @@
+# 在线调试
+- name: 1024Code
+  url: https://1024code.com/
+  img: https://api.iowen.cn/favicon/1024code.com.png
+  description: 基于浏览器的云开发平台
+
+- name: CodePen
+  url: https://codepen.io/trending
+  img: https://api.iowen.cn/favicon/codepen.io.png
+  description: 最牛的在线调试网站
+
+- name: Replit
+  url: https://replit.com/~
+  img: https://api.iowen.cn/favicon/replit.com.png
+  description: 基于浏览器的云端协同开发平台
+# - name: JSRUN
+#   url: https://jsrun.net/
+#   img: https://api.iowen.cn/favicon/jsrun.net.png
+#   description: 国内领先代码在线调试网站
+
+# - name: JSBin
+#   url: https://jsbin.com/
+#   img: https://api.iowen.cn/favicon/jsbin.com.png
+#   description: 代码在线调试平台
+
+# - name: CodeSandbox
+#   url: https://codesandbox.io/
+#   img: https://api.iowen.cn/favicon/codesandbox.io.png
+#   description: 代码沙盒，在线运行代码
+
+## 推荐，边学边练
+
+- name: FreeCodeCamp
+  url: https://www.freecodecamp.org/chinese/learn
+  img: https://api.iowen.cn/favicon/www.freecodecamp.org.png
+  description: 免费学习编程，边学边练！
+
+- name: 慕课网
+  url: https://www.imooc.com/
+  img: https://api.iowen.cn/favicon/www.imooc.com.png
+  description: 提供在线编程视频课程
+
+- name: 蓝桥云课
+  url: https://www.lanqiao.cn/
+  img: https://api.iowen.cn/favicon/www.lanqiao.cn.png
+  description: 原实验楼，提供了在线编程练习环境
+
+- name: 鲁班编程
+  url: http://luban.coderead.cn/
+  img: https://api.iowen.cn/favicon/luban.coderead.cn.png
+  description: Java交互式编程
+
+- name: WriteBug
+  url: https://www.writebug.com/group
+  img: https://api.iowen.cn/favicon/www.writebug.com.png
+  description: 清华计算机数字空间
+# - name: CodeGym
+#   url: https://codegym.cc/zh/
+#   img: https://api.iowen.cn/favicon/codegym.cc.png
+#   description: 读故事学Java开发，做任务需要VIP
+
+## 全英文
+# - name: Codecademy
+#   url: https://www.codecademy.com/learn
+#   img: https://api.iowen.cn/favicon/www.codecademy.com.png
+#   description: 在线学习编程，边学边练，全英文
+
+# - name: CodinGame
+#   url: https://www.codingame.com/
+#   img: https://api.iowen.cn/favicon/www.codingame.com.png
+#   description: 编程游戏网站，全英文
+
+# - name: Coursera
+#   url: https://www.coursera.org/
+#   img: https://api.iowen.cn/favicon/www.coursera.org.png
+#   description: 在线课程学习，全英文
+
+# - name: CodeWars
+#   url: https://www.codewars.com/dashboard
+#   img: https://api.iowen.cn/favicon/www.codewars.com.png
+#   description: 编程刷题网站，提供等级，全英文
+
+# - name: TreeHouse
+#   url: https://teamtreehouse.com/
+#   img: https://api.iowen.cn/favicon/teamtreehouse.com.png
+#   description: 在线学编程，全英文，付费
+
+# - name: Odin
+#   url: https://www.theodinproject.com/
+#   img: https://api.iowen.cn/favicon/www.codewars.com.png
+#   description: 免费Web开发教程，全英文
+
+# 练习场
+# - name: 100dayscss
+#   url: https://100dayscss.com/about/
+#   img: https://api.iowen.cn/favicon/100dayscss.com.png
+#   description: 在线练习CSS
+
+# - name: 炼码
+#   url: https://www.lintcode.com/
+#   img: /img/def5.png
+#   description: 在线刷题和学习算法
+
+# - name: CSS布局练习
+#   url: https://zh.learnlayout.com/
+#   img: https://api.iowen.cn/favicon/zh.learnlayout.com.png
+#   description: 学习CSS布局
+
+# - name: CSS Diner
+#   url: https://flukeout.github.io/
+#   img: https://api.iowen.cn/favicon/flukeout.github.io.png
+#   description: 学习CSS选择器
+
+# - name: Flexbox练习
+#   url: https://flexboxfroggy.com/
+#   img: https://api.iowen.cn/favicon/flexboxfroggy.com.png
+#   description: 学习CSS弹性盒子
+
+# - name: CssGridgarden
+#   url: https://cssgridgarden.com/
+#   img: https://api.iowen.cn/favicon/cssgridgarden.com.png
+#   description: 学习CSS网格布局
+
+# - name: GitBranching
+#   url: https://learngitbranching.js.org/
+#   img: https://api.iowen.cn/favicon/learngitbranching.js.org.png
+#   description: 深入学习练习GIT

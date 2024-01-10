@@ -1,0 +1,105 @@
+- name: Figma
+  url: https://www.figma.com/
+  img: https://api.iowen.cn/favicon/www.figma.com.png
+  description: The Collaborative Interface Design Tool
+- name: 墨刀
+  url: https://modao.cc/workspace/me
+  img: https://api.iowen.cn/favicon/modao.cc.png
+  description: 设计师社区
+
+- name: 即时设计
+  url: https://js.design/workspace
+  img: https://api.iowen.cn/favicon/js.design.png
+  description: 设计一键转前端代码
+
+- name: Deco
+  url: https://deco-preview.jd.com/
+  img: https://api.iowen.cn/favicon/deco-preview.jd.com.png
+  description: 设计稿一键生成多端代码
+
+# 前端工具
+
+- name: Caniuse
+  url: https://caniuse.com/
+  img: https://api.iowen.cn/favicon/caniuse.com.png
+  description: 浏览器兼容性查询
+
+- name: Carbon
+  url: https://carbon.now.sh/
+  img: https://api.iowen.cn/favicon/carbon.now.sh.png
+  description: 代码生成图片
+
+- name: U钙网
+  url: https://www.uugai.com/logoa/wenzi.php
+  img: https://api.iowen.cn/favicon/www.uugai.com.png
+  description: 免费快速设计logo图片
+
+- name: Dribbble
+  url: https://dribbble.com/shots
+  img: https://api.iowen.cn/favicon/dribbble.com.png
+  description: 寻找网站设计灵感
+
+- name: DesignDaily
+  url: https://uidesigndaily.com/
+  img: https://api.iowen.cn/favicon/uidesigndaily.com.png
+  description: 寻找网站设计灵感
+
+- name: Ant
+  url: https://ant.design/index-cn
+  img: https://api.iowen.cn/favicon/ant.design.png
+  description: 组件丰富，选用自如
+
+- name: CSS-Inspiration
+  url: https://chokcoco.github.io/CSS-Inspiration
+  img: https://chokcoco.github.io/CSS-Inspiration/images/logo2.png
+  description: 学习 CSS 的灵感
+
+- name: Animate
+  url: https://animate.style/
+  img: https://api.iowen.cn/favicon/animate.style.png
+  description: A cross-browser library of CSS animations.
+
+- name: WOW.js
+  url: https://www.dowebok.com/131.html
+  img: https://api.iowen.cn/favicon/www.dowebok.com.png
+  description: 添加页面滚动动画效果
+
+- name: Animista
+  url: https://https://animista.net/play/
+  img: https://api.iowen.cn/favicon/animista.net.png
+  description: On-Demand CSS Animations Library
+
+- name: CSS Scan
+  url: https://getcssscan.com/css-box-shadow-examples?ref=producthunt
+  img: https://api.iowen.cn/favicon/getcssscan.com.png
+  description: 93 Beautiful CSS box-shadow examples
+
+- name: Palettes
+  url: https://flatuicolors.com/
+  img: https://api.iowen.cn/favicon/flatuicolors.com.png
+  description: 网站配色大全
+
+- name: Coolors
+  url: https://coolors.co/
+  img: https://api.iowen.cn/favicon/coolors.co.png
+  description: 网页配色，有点慢
+
+- name: UIGradients
+  url: https://uigradients.com/
+  img: https://api.iowen.cn/favicon/uigradients.com.png
+  description: CSS渐变色大全
+
+- name: CSS Tricks
+  url: https://qishaoxuan.github.io/css_tricks/
+  img: https://api.iowen.cn/favicon/qishaoxuan.github.io.png
+  description: 提供一些常用的 CSS 样式
+
+- name: 爱测速网
+  url: https://www.aicesu.cn/
+  img: https://api.iowen.cn/favicon/www.aicesu.cn.png
+  description: 不止测速，开发工具大全
+
+- name: 组件世界
+  url: https://cn.widgetstore.net/#/home
+  img: https://api.iowen.cn/favicon/cn.widgetstore.net.png
+  description: 嵌入网页小组件大全

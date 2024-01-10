@@ -1,0 +1,45 @@
+
+- name: 房天下装修
+  url: https://home.fang.com/album/ideabook/bj/
+  img: https://api.iowen.cn/favicon/home.fang.com.png
+  description: 房天下装修
+
+- name: 太平洋家居网
+  url: https://www.pchouse.com.cn/
+  img: https://api.iowen.cn/favicon/www.pchouse.com.cn.png
+  description: 时尚家居专业评测
+
+- name: 百度装馨家
+  url: https://jia.baidu.com/mp/account/login
+  img: https://api.iowen.cn/favicon/jia.baidu.com.png
+  description: 装馨家精选装修公司
+
+- name: 土巴兔装修
+  url: https://xiaoguotu.to8to.com/case/zxanli/
+  img: https://api.iowen.cn/favicon/xiaoguotu.to8to.com.png
+  description: 土巴兔全屋装修设计案例
+
+- name: 设计之家
+  url: https://www.sj33.cn/architecture/
+  img: https://api.iowen.cn/favicon/www.sj33.cn.png
+  description: 设计师的专属社区
+
+# - name: 拓者设计吧
+#   url: https://www.tuozhe8.com/
+#   img: https://api.iowen.cn/favicon/www.tuozhe8.com.png
+#   description: 付费的设计社区
+
+# - name: 河北荣程装饰
+#   url: http://www.hbrczs.com/a/anli/
+#   img: https://api.iowen.cn/favicon/www.hbrczs.com.png
+#   description: 河北荣程装饰官网
+
+# - name: 河北荣程装饰后台
+#   url: http://www.hbrczs.com/dede/
+#   img: https://api.iowen.cn/favicon/www.hbrczs.com.png
+#   description: 河北荣程装饰后台
+  
+# - name: 业之峰装饰
+#   url: https://sjz.yzf.com.cn/ResidentialCase/city0_style0_type0_area0
+#   img: https://api.iowen.cn/favicon/sjz.yzf.com.cn.png
+#   description: 业之峰装饰官网

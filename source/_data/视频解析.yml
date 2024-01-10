@@ -1,0 +1,47 @@
+# 短视频解析
+
+- name: B站视频解析工具
+  url: https://bilibili.iiilab.com/
+  img: https://api.iowen.cn/favicon/bilibili.iiilab.com.png
+  description: 支持解析下载哔哩哔哩，微博，YouTube等平台视频
+
+- name: 短视频去水印解析
+  url: https://tiqu.cc/
+  img: https://api.iowen.cn/favicon/tiqu.cc.png
+  description: 免费快速提取单个视频
+- name: 抖音去水印解析
+  url: https://www.qshuiyin.com/
+  img: https://api.iowen.cn/favicon/www.qshuiyin.com.png
+  description: 批量提取需要VIP
+
+- name: 哼哼猫去水印解析
+  url: https://henghengmao.vip/
+  img: https://api.iowen.cn/favicon/henghengmao.vip.png
+  description: 批量提取需要VIP
+
+- name: 贝贝在线视频解析
+  url: https://xbeibeix.com/app/tiktok
+  img: https://api.iowen.cn/favicon/xbeibeix.com.png
+  description: 贝贝在线视频解析
+
+电视电影解析
+
+- name: 全民解析
+  url: https://timecn.cn/
+  img: https://api.iowen.cn/favicon/timecn.cn.png
+  description: 全民VIP视频解析
+
+- name: Flechazo解析
+  url: https://i-flechazo-y.top/mypages/Videoparse/
+  img: https://api.iowen.cn/favicon/i-flechazo-y.top.png
+  description: Flechazo-VIP视频解析
+
+- name: 在线视频解析
+  url: http://tool.liumingye.cn/video/
+  img: https://api.iowen.cn/favicon/tool.liumingye.cn.png
+  description: 在线VIP视频解析
+
+- name: COCO视频解析
+  url: https://www.cocotoolset.cn/VIPVideo/index.html
+  img: https://api.iowen.cn/favicon/www.cocotoolset.cn.png
+  description: COCO-VIP视频解析

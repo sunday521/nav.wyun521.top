@@ -1,0 +1,47 @@
+
+
+- name: bilibili
+  url: https://www.bilibili.com/
+  img: https://api.iowen.cn/favicon/bilibili.com.png
+  description: 年轻人的聚集地
+
+- name: 西瓜视频
+  url: https://www.ixigua.com/
+  img: https://api.iowen.cn/favicon/www.ixigua.com.png
+  description: 高清免费在线视频
+
+- name: 抖音
+  url: https://www.douyin.com/
+  img: https://api.iowen.cn/favicon/www.douyin.com.png
+  description: 记录美好生活
+
+- name: 小红书
+  url: https://www.xiaohongshu.com/explore
+  img: https://api.iowen.cn/favicon/www.xiaohongshu.com.png
+  description: 创作与分享
+
+- name: 微信开放平台
+  url: https://weixin.qq.com/
+  img: https://api.iowen.cn/favicon/weixin.qq.com.png
+  description: 微信官方开放平台
+  
+- name: 微博
+  url: https://weibo.com/
+  img: https://api.iowen.cn/favicon/weibo.com.png
+  description: 国内最大社交分享平台
+
+- name: 今日头条
+  url: https://www.toutiao.com/
+  img: https://api.iowen.cn/favicon/www.toutiao.com.png
+  description: 热点持续放送
+
+- name: 豆瓣
+  url: https://www.douban.com/
+  img: https://api.iowen.cn/favicon/www.douban.com.png
+  description: 豆瓣读书电影音乐
+
+# - name: 搜狗微信
+#   url: https://weixin.sogou.com/
+#   img: https://api.iowen.cn/favicon/weixin.sogou.com.png
+#   description: 微信订阅号文章搜索
+

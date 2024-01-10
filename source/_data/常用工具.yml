@@ -1,0 +1,69 @@
+- name: 掘金
+  url: https://juejin.cn/
+  img: https://api.iowen.cn/favicon/juejin.cn.png
+  description: 开发者中心
+
+- name: 语雀
+  url: https://www.yuque.com/dashboard
+  img: https://api.iowen.cn/favicon/www.yuque.com.png
+  description: 搭建云知识库
+
+- name: bilibili
+  url: https://search.bilibili.com/all
+  img: https://api.iowen.cn/favicon/bilibili.com.png
+  description: 小破站
+
+- name: 百度百科
+  url: https://baike.baidu.com/#home
+  img: https://api.iowen.cn/favicon/baike.baidu.com.png
+  description: 根据词条找答案
+
+- name: 高德地铁图
+  url: https://map.amap.com/subway/index.html
+  img: https://api.iowen.cn/favicon/map.amap.com.png
+  description: 高德地铁图
+
+- name: 可画
+  url: https://www.canva.cn/
+  img: https://api.iowen.cn/favicon/canva.cn.png
+  description: 在线免费作图
+
+- name: ProcessOn
+  url: https://www.processon.com/trash
+  img: https://api.iowen.cn/favicon/processon.com.png
+  description: 在线画流程图
+
+- name: 有道翻译
+  url: https://fanyi.youdao.com/
+  img: https://api.iowen.cn/favicon/fanyi.youdao.com.png
+  description: 有道在线翻译
+
+- name: ZZ123音乐网
+  url: https://www.zz123.com/
+  img: https://api.iowen.cn/favicon/www.zz123.com.png
+  description: 在线免费听歌
+
+- name: 网易云排行榜
+  url: https://music.163.com/#/discover/toplist
+  img: https://api.iowen.cn/favicon/music.163.com.png
+  description: 网易云音乐排行榜
+
+- name: CloudConvert
+  url: https://cloudconvert.com/mp4-to-gif
+  img: https://api.iowen.cn/favicon/cloudconvert.com.png
+  description: 在线转换文件格式
+
+- name: Gitee
+  url: https://gitee.com/
+  img: https://api.iowen.cn/favicon/gitee.com.png
+  description: 云代码管理
+
+- name: KGithub
+  url: https://kgithub.com/
+  img: https://api.iowen.cn/favicon/www.github.com.png
+  description: Github的镜像站
+
+- name: Google
+  url: https://note.cm/
+  img: https://api.iowen.cn/favicon/note.cm.png
+  description: Google的镜像站

@@ -1,0 +1,269 @@
+favicon: https://mysource-hexo.wyun521.top/img/cover/logo.png
+banner: /images/webstack_banner_cn.png
+
+logo:
+  expanded: https://mysource-hexo.wyun521.top/img/cover/网址导航.png
+  collapsed: https://mysource-hexo.wyun521.top/img/cover/logo.png
+  dark: https://mysource-hexo.wyun521.top/img/cover/logo.png
+
+flag:
+  - name: Chinese
+    default: true
+    icon: flag-cn
+    index: /index.html
+
+search: true
+
+userDefinedSearchData:
+  custom: true
+  thisSearch: https://www.baidu.com/s?wd=
+  thisSearchIcon: url(https://www.baidu.com/favicon.ico)
+  hotStatus: true
+  data:
+    - name: 百度
+      img: url(https://www.baidu.com/favicon.ico)
+      url: https://www.baidu.com/s?wd=
+    - name: 必应
+      img: url(https://cn.bing.com/favicon.ico)
+      url: https://cn.bing.com/search?q=
+    - name: 谷歌
+      img: url(https://api.iowen.cn/favicon/note.cm.png)
+      url: https://www.google.com/search?q=
+    - name: B站
+      img: url(https://www.bilibili.com/favicon.ico)
+      url: https://search.bilibili.com/all?keyword=
+    - name: Github
+      img: url(https://api.iowen.cn/favicon/www.github.com.png)
+      url: https://github.com/search?q=
+
+# userDefinedSearchData:
+#   custom: false
+#   thisSearch: https://www.baidu.com/s?wd=
+#   thisSearchIcon: url(https://www.baidu.com/favicon.ico)
+#   hotStatus: true
+#   data:
+#     - name: 百度
+#       img: url(https://www.baidu.com/favicon.ico)
+#       url: https://www.baidu.com/s?wd=
+
+githubCorner: #'<a href="https://github.com/sunday521/" class="github-corner" aria-label="Follow Me"><svg width="80" height="80" viewBox="0 0 250 250" style="fill:#151513; color:#fff; position: absolute; top: 0; border: 0; right: 0;" aria-hidden="true"><path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z"></path><path d="M128.3,109.0 C113.8,99.7 119.0,89.6 119.0,89.6 C122.0,82.7 120.5,78.6 120.5,78.6 C119.2,72.0 123.4,76.3 123.4,76.3 C127.3,80.9 125.5,87.3 125.5,87.3 C122.9,97.6 130.6,101.9 134.4,103.2" fill="currentColor" style="transform-origin: 130px 106px;" class="octo-arm"></path><path d="M115.0,115.0 C114.9,115.1 118.7,116.5 119.8,115.4 L133.7,101.6 C136.9,99.2 139.9,98.4 142.2,98.6 C133.8,88.0 127.5,74.4 143.8,58.0 C148.5,53.4 154.0,51.2 159.7,51.0 C160.3,49.4 163.2,43.6 171.4,40.1 C171.4,40.1 176.1,42.5 178.8,56.2 C183.1,58.6 187.2,61.8 190.9,65.4 C194.5,69.0 197.7,73.2 200.1,77.6 C213.8,80.2 216.3,84.9 216.3,84.9 C212.7,93.1 206.9,96.0 205.4,96.6 C205.1,102.4 203.0,107.8 198.3,112.5 C181.9,128.9 168.3,122.5 157.7,114.1 C157.9,116.9 156.7,120.9 152.7,124.9 L141.0,136.5 C139.8,137.7 141.6,141.9 141.8,141.8 Z" fill="currentColor" class="octo-body"></path></svg></a><style>.github-corner:hover .octo-arm{animation:octocat-wave 560ms ease-in-out}@keyframes octocat-wave{0%,100%{transform:rotate(0)}20%,60%{transform:rotate(-25deg)}40%,80%{transform:rotate(10deg)}}@media (max-width:500px){.github-corner:hover .octo-arm{animation:none}.github-corner .octo-arm{animation:octocat-wave 560ms ease-in-out}}</style>'
+
+# 默认展开菜单
+expandAll: false
+
+# gift fish link sun feather files play pencil
+# watch
+
+menu:
+  - name: 个人站点
+    icon: fas fa-id-card
+    config: 个人站点
+
+  - name: 常用工具
+    icon: fas fa-thumbs-up
+    config: 常用工具
+
+  - name: 寻宝指南
+    icon: fas fa-bug
+    submenu:
+      - name: 找资源
+        icon: fas fa-search-plus
+        config: 找资源
+      - name: 找素材
+        icon: fas fa-envelope
+        config: 找素材
+      - name: 找图片
+        icon: fas fa-image
+        config: 找图片
+
+  - name: 软件开发
+    icon: fas fa-keyboard
+    submenu:
+      - name: 官方网站
+        icon: fas fa-burn
+        config: 官方网站
+      - name: 技术文档
+        icon: fas fa-book
+        config: 技术文档
+      - name: 开发工具
+        icon: fas fa-code
+        config: 开发工具
+      - name: 开发社区
+        icon: fab fa-stack-overflow
+        config: 开发社区
+
+  - name: 前端开发
+    icon: fas fa-mug-hot
+    submenu:
+      - name: 前端常用
+        icon: fas fa-cloud
+        config: 前端常用
+      - name: UI设计
+        icon: fas fa-taxi
+        config: UI设计
+      - name: 交互编程
+        icon: fas fa-keyboard
+        config: 交互编程
+      - name: 图标表情
+        icon: fas fa-sun
+        config: 图标表情
+
+  - name: 实用工具
+    icon: fas fa-coffee
+    submenu:
+      - name: 在线工具
+        icon: fas fa-thumbs-up
+        config: 在线工具
+      - name: 云端存储
+        icon: fas fa-cloud
+        config: 云端存储
+      - name: 图片设计
+        icon: fas fa-magic
+        config: 图片设计
+      - name: 图片处理
+        icon: fas fa-cut
+        config: 图片处理
+
+  - name: 媒体平台
+    icon: fas fa-camera
+    submenu:
+      - name: 自媒体
+        icon: fas fa-heading
+        config: 自媒体
+      - name: 创作中心
+        icon: fas fa-burn
+        config: 创作中心
+      - name: 排行榜
+        icon: fas fa-flag
+        config: 排行榜
+
+  - name: 内容创作
+    icon: fas fa-pen
+    submenu:
+      - name: 公号创作
+        icon: fas fa-check
+        config: 公号创作
+      - name: AI写作
+        icon: fas fa-comments
+        config: AI写作
+      - name: 影视解说
+        icon: fas fa-video
+        config: 影视解说
+      - name: 视频解析
+        icon: fas fa-download
+        config: 视频解析
+
+  - name: 生活娱乐
+    icon: fas fa-leaf
+    submenu:
+      - name: 听音乐
+        icon: fas fa-music
+        config: 听音乐
+      - name: 看电影
+        icon: fas fa-play
+        config: 看电影
+      - name: 打个盹
+        icon: fas fa-book
+        config: 打个盹
+      - name: 逛博客
+        icon: fab fa-weixin
+        config: 逛博客
+
+  - name: 杂七杂八
+    icon: fas fa-signal
+    submenu:
+      - name: 网址导航
+        icon: fas fa-star
+        config: 网址导航
+      # - name: 装修设计
+      #   icon: fas fa-home
+      #   config: 装修设计
+      - name: 人事行政
+        icon: fas fa-heading
+        config: 人事行政
+      - name: 求职简历
+        icon: fas fa-search-plus
+        config: 求职简历
+      - name: 记笔记
+        icon: fas fa-search-plus
+        config: 记笔记
+      - name: 没啥用
+        icon: fas fa-ban
+        config: 没啥用
+
+  - name: 其他
+    icon: fas fa-history #fas fa-train
+    config: 其他
+
+  # 图标
+  # fa-leaf fa-info fa-history fa-heading fa-envelope
+  # fa-comments fa-bug fa-burn fa-bell fa-ban
+  # fa-signal fa-star fa-star-shooting
+  # fa-search-plus fa-seedling fa-video
+
+# =========================================
+# 建议在/source/_data/<config_name>.yml中配置
+# =========================================
+# testPage:
+#   - name: Child Page
+#     url: /child
+#     img: /images/logos/myblog.png
+#     description: 子页面测试
+
+about:
+  url: /about/
+  icon: fas fa-user
+  name: 关于本站
+
+aboutPage:
+  website:
+    head: 关于本站
+    html: "<blockquote><p>一个使用Hexo Webstack主题搭建的网址导航站点</p></blockquote>"
+  webmaster:
+    head: 关于站长
+    name: Sunday
+    url: https://blog.wyun521.top/
+    img: https://mysource-hexo.wyun521.top/img/avatar/7.jpg
+    description: 代码改变世界
+    html: #'<br /><blockquote><p>本站是<a href="https://kgithub.com/HCLonely">HCLonely</a>基于<a href="https://kgithub.com/WebStackPage/WebStackPage.github.io">WebStackPage</a>项目做的一款<a href="https://hexo.io/">Hexo</a>主题。</p></blockquote>'
+
+since: 2023
+
+busuanzi:
+  enable: true
+  position: sidebar # 'footer','sidebar'
+  pv: 本站总访问量$pv
+  uv: 本站总访客数$uv
+
+custom:
+  head:
+    |- # 以下内容插入到<head></head>标签内，可设置多行，注意每行开头至少四个空格
+    <link href="./css/custom.css" rel="stylesheet" type="text/css"/>
+  body: |- # 以下内容插入到</body>标签之前，可设置多行，注意每行开头至少四个空格
+
+js:
+  header: /js/header.js
+  footer: /js/footer.js
+  jquery: /js/jquery-1.11.1.min.js
+  bootstrap: /js/bootstrap.min.js
+  TweenMax: /js/TweenMax.min.js
+  resizeable: /js/resizeable.min.js
+  joinable: /js/joinable.js
+  xenonApi: /js/xenon-api.min.js
+  xenonToggles: /js/xenon-toggles.min.js
+  xenonCustom: /js/xenon-custom.min.js
+  lozad: /js/lozad.min.js
+  html5shiv: /js/html5shiv.min.js
+  respond: /js/respond.min.js
+  busuanzi: https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js
+
+css:
+  hclonely: /css/hclonely.css
+  fonts: //fonts.loli.net/css?family=Arimo:400,700,400italic
+  linecons: /css/fonts/linecons/css/linecons.min.css
+  fontawesome: /css/fonts/fontawesome/css/all.min.css
+  bootstrap: /css/bootstrap.min.css
+  xenonCore: /css/xenon-core.min.css
+  xenonComponents: /css/xenon-components.min.css
+  xenonSkins: /css/xenon-skins.min.css
+  nav: /css/nav.min.css

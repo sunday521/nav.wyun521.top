@@ -1,0 +1,56 @@
+# - name: 面渣逆袭
+#   url: https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzkwODE5ODM0Ng==&action=getalbum&album_id=2041709347461709827&scene=173&from_msgid=2247489569&from_itemidx=1&count=3&nolastread=1#wechat_redirect
+#   img: https://api.iowen.cn/favicon/mp.weixin.qq.com.png
+#   description: 软件开发面试总结
+
+# - name: Java面试题
+#   url: https://www.javanav.com/interview/3c52f1f147994557935c32b77682a827.html
+#   img: https://api.iowen.cn/favicon/www.javanav.com.png
+#   description: Java面试题
+
+# - name: Java总结笔记
+#   url: https://rbmonster.github.io/learning-note/#/
+#   img: /img/def5.png
+#   description: Java总结笔记文档
+
+# 编程教程
+
+# - name: How2j
+#   url: https://how2j.cn/
+#   img: https://api.iowen.cn/favicon/how2j.cn.png
+#   description: How2j的Java总结笔记
+
+# - name: C语言网
+#   url: https://www.dotcpp.com/course/
+#   img: https://api.iowen.cn/favicon/www.dotcpp.com.png
+#   description: C语言、Java、Python全教程
+
+# - name: BeginnersBook
+#   url: https://beginnersbook.com/
+#   img: https://api.iowen.cn/favicon/beginnersbook.com.png
+#   description: Java初学者教程，全英文
+
+# - name: BeginnersBook
+#   url: https://docs.apachecn.org/beginnersbook/
+#   img: https://api.iowen.cn/favicon/docs.apachecn.org.png
+#   description: Java初学者教程，中文版
+
+# - name: KuangStudy
+#   url: https://www.kuangstudy.com/user/e4bf8e6f479a4eb994e2afe610d7138e
+#   img: https://api.iowen.cn/favicon/www.kuangstudy.com.png
+#   description: 狂神Java系列教程
+
+# - name: Java程序员进阶之路
+#   url: https://tobebetterjavaer.com/home.html
+#   img: https://api.iowen.cn/favicon/tobebetterjavaer.com.png
+#   description: Java全面复习文档
+
+# - name: JavaGuide
+#   url: https://javaguide.cn/home.html
+#   img: https://api.iowen.cn/favicon/javaguide.cn.png
+#   description: Java学习&面试指南
+
+# - name: Java面试指南
+#   url: https://www.javalearn.cn/
+#   img: /img/def5.png
+#   description: Java面试指南

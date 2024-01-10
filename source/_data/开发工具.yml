@@ -1,0 +1,56 @@
+# 常用
+- name: 阿里云
+  url: https://dns.console.aliyun.com/
+  img: https://api.iowen.cn/favicon/aliyun.com.png
+  description: 阿里云域名解析控制台
+
+- name: Vercel
+  url: https://vercel.com/dashboard
+  img: https://api.iowen.cn/favicon/vercel.com.png
+  description: 静态网站托管服务
+
+- name: LeanCloud
+  url: https://www.leancloud.cn/
+  img: https://api.iowen.cn/favicon/leancloud.cn.png
+  description: 说说云存储
+
+- name: MongoDB
+  url: https://cloud.mongodb.com/
+  img: https://api.iowen.cn/favicon/cloud.mongodb.com.png
+  description: 提供数据库存储服务
+
+- name: Netlify
+  url: https://app.netlify.com/
+  img: https://api.iowen.cn/favicon/app.netlify.com.png
+  description: 免费部署网站
+
+- name: GitClone
+  url: https://gitclone.com/
+  img: https://api.iowen.cn/favicon/gitclone.com.png
+  description: GitHub缓存加速网站
+
+- name: Artitalk
+  url: https://artitalk.js.org/
+  img: https://api.iowen.cn/favicon/artitalk.js.org.png
+  description: 给网站添加说说页面
+
+- name: Algolia
+  url: https://www.algolia.com/
+  img: https://api.iowen.cn/favicon/www.algolia.com.png
+  description: 全站文章搜索
+
+- name: 一言
+  url: https://developer.hitokoto.cn/
+  img: https://api.iowen.cn/favicon/developer.hitokoto.cn.png
+  description: 一言开发者中心
+
+- name: 一为忆API
+  url: https://api.iowen.cn/
+  img: https://api.iowen.cn/favicon/api.iowen.cn.png
+  description: 批量获取网站Favicon
+  
+- name: Favicon Kit
+  url: https://my.faviconkit.com/
+  img: https://api.iowen.cn/favicon/my.faviconkit.com.png
+  description: 获取网站Favicon
+

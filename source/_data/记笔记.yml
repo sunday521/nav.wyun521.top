@@ -1,0 +1,48 @@
+- name: 语雀
+  url: https://www.yuque.com/dashboard
+  img: https://api.iowen.cn/favicon/www.yuque.com.png
+  description: 搭建云知识库，可导出MD文件
+
+- name: 飞书云文档
+  url: https://docs.feishu.cn/
+  img: https://api.iowen.cn/favicon/www.feishu.cn.png
+  description: 自由创作协作办公
+
+- name: Notion
+  url: https://www.notion.so/
+  img: https://api.iowen.cn/favicon/www.notion.so.png
+  description: 国外很好用的云笔记软件
+
+- name: 石墨文档
+  url: https://shimo.im/desktop
+  img: https://api.iowen.cn/favicon/shimo.im.png
+  description: 墨水风笔记软件
+
+- name: Flomo
+  url: https://v.flomoapp.com/
+  img: https://api.iowen.cn/favicon/v.flomoapp.com.png
+  description: 记录灵感碎片
+
+- name: GitBook
+  url: https://www.gitbook.com/
+  img: https://api.iowen.cn/favicon/www.gitbook.com.png
+  description: 先进团队技术文档记录地
+
+- name: 板栗看板
+  url: https://banlikanban.com/
+  img: https://api.iowen.cn/favicon/banlikanban.com.png
+  description: 更高效地管理工作和生活
+
+- name: Flowus
+  url: https://flowus.cn/
+  img: https://api.iowen.cn/favicon/flowus.cn.png
+  description: 在线文档笔记知识库
+# - name: 马克飞象
+#   url: https://maxiang.io/
+#   img: https://api.iowen.cn/favicon/www.maxiang.io.png
+#   description: 在线Markdown编辑器
+
+# - name: DOOCS
+#   url: https://doocs.gitee.io/md/
+#   img: https://api.iowen.cn/favicon/doocs.gitee.io.png
+#   description: 微信Markdown编辑器

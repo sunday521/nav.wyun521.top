@@ -1,0 +1,55 @@
+# 网盘资源
+
+- name: 易搜
+  url: https://yiso.fun/
+  img: /img/def5.png
+  description: 努力做最好用的云盘资源搜索引擎
+
+- name: UP云搜
+  url: https://www.upyunso.com/
+  img: https://api.iowen.cn/favicon/www.upyunso.com.png
+  description: 阿里云盘资源搜索
+
+- name: 橘子盘搜
+  url: https://www.nmme.cc/
+  img: https://api.iowen.cn/favicon/www.nmme.cc.png
+  description: 网盘资源搜索
+
+- name: 网盘小站
+  url: https://wpxz.org/t/win-o
+  img: /img/def5.png
+  description: 阿里云盘资源分类共享
+
+## 插件脚本
+
+- name: 极简插件
+  url: https://chrome.zzzmh.cn/#/index
+  img: https://api.iowen.cn/favicon/chrome.zzzmh.cn.png
+  description: Chrome插件大全
+
+- name: GreasyFork
+  url: https://greasyfork.org/zh-CN
+  img: https://api.iowen.cn/favicon/greasyfork.org.png
+  description: 油猴用户脚本大全
+
+- name: 编程导航
+  url: https://www.code-nav.cn/
+  img: https://api.iowen.cn/favicon/www.code-nav.cn.png
+  description: 鱼皮的编程导航站
+# - name: 油小猴
+#   url: https://www.youxiaohou.com/
+#   img: https://api.iowen.cn/favicon/www.youxiaohou.com.png
+#   description: 一个汇聚了各种油猴插件的小站
+
+## 其他
+
+- name: 软件先锋
+  url: https://soft.macxf.com/
+  img: https://api.iowen.cn/favicon/soft.macxf.com.png
+  description: 软件工具大全
+
+- name: 不死鸟
+  url: https://iui.su/
+  img: https://api.iowen.cn/favicon/iui.su.png
+  description: 优质工具分享
+

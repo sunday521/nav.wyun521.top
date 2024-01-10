@@ -1,0 +1,34 @@
+- name: 可画
+  url: https://www.canva.cn/
+  img: https://api.iowen.cn/favicon/canva.cn.png
+  description: 在线一键作图
+
+- name: 可画-快速创建
+  url: https://www.canva.cn/make?type=social-media
+  img: https://api.iowen.cn/favicon/canva.cn.png
+  description: 快速创建封面、海报、壁纸等
+
+- name: 稿定
+  url: https://www.uupoop.com/
+  img: https://api.iowen.cn/favicon/www.uupoop.com.png
+  description: 网页版PS设计，抠图工具
+# - name: 创客贴
+#   url: https://www.chuangkit.com/
+#   img: https://api.iowen.cn/favicon/www.chuangkit.com.png
+#   description: 在线设计与智能抠图
+
+# - name: Photopea
+#   url: https://www.photopea.com/
+#   img: https://api.iowen.cn/favicon/www.photopea.com.png
+#   description: 在线修图，界面操作和PS非常类似
+
+# - name: 图怪兽
+#   url: https://818ps.com/
+#   img: https://api.iowen.cn/favicon/818ps.com.png
+#   description: 作图神器
+
+# - name: 包图网
+#   url: https://ibaotu.com/
+#   img: https://api.iowen.cn/favicon/ibaotu.com.png
+#   description: PSD素材下载
+
